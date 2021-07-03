@@ -1,0 +1,26 @@
+{
+  "name": "codedaylabs_node.jsassignment",
+  "version": "1.0.0",
+  "description": "Onboarding assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleksandrMolchagin/CodeDayLabs_Node.JSAssignment.git"
+  },
+  "author": "Aleksandr Molchagin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleksandrMolchagin/CodeDayLabs_Node.JSAssignment/issues"
+  },
+  "homepage": "https://github.com/AleksandrMolchagin/CodeDayLabs_Node.JSAssignment#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
